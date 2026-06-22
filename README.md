@@ -1,6 +1,5 @@
 # YACE
-Yet Another CAdES Extractor
-Script Python per l'estrazione del contenuto da file **CAdES P7M** (firma digitale italiana).
+Yet Another CAdES Extractor: script Python per l'estrazione del contenuto da file **CAdES P7M** (firma digitale italiana).
 
 ## Cos'è un file P7M?
 
